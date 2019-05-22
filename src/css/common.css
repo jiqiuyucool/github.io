@@ -1,0 +1,8 @@
+@charset "utf-8";
+body{font-family:arial,Microsoft YaHei,verdana;background-color:#FFF;color:#2b2b2b;font-size:12px;_background-image:url(about:blank);_background-attachment:fixed}
+blockquote,body,div,code,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,input,legend,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0}
+li,ul{list-style-image:none;list-style-type:none}
+a{font-size:12px;color:#2b2b2b;text-decoration:none}
+a:hover{color:#ff585e;text-decoration:underline}
+div{line-height:150%}
+fieldset,img,input{border:0;vertical-align:top}
